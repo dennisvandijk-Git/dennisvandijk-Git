@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvandijk-Git)](https://github.com/anuraghazra/github-readme-stats)
+[![Dennis GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvandijk-Git)](https://github.com/anuraghazra/github-readme-stats)
