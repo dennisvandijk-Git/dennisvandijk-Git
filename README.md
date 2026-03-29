@@ -4,6 +4,11 @@ IT professional with a strong focus on automation and cloud.
 
 I enjoy building solutions that reduce manual work and improve efficiency.
 
+## 🚧 Currently working on
+
+- Preparing for [AZ-104](https://learn.microsoft.com/en-us/certifications/azure-administrator/) (Microsoft Azure Administrator)
+- Completing [CS50P](https://cs50.harvard.edu/python/) (Harvard's Introduction to Python)
+
 ## 🚀 What I do
 
 - Automate IT processes with PowerShell
@@ -22,8 +27,9 @@ Working towards a Cloud / DevOps Engineering role
 
 ## 🌐 Links
 
-<a href="https://www.dvandijk.com"><img src="./icons/dvandijk_resume.png" /></a> <br>
-<a href="https://www.linkedin.com/in/van-dijk-dennis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /></a>
+<p style="margin:0;"><a href="https://www.dvandijk.com"><img src="./icons/dvandijk_resume.png" /></a>
+<br>
+<a href="https://www.linkedin.com/in/van-dijk-dennis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /></a></p>
 
 #
 
