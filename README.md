@@ -1,21 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Dennis
 
-<!--
-**dennisvandijk-Git/dennisvandijk-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+IT professional with a strong focus on automation and cloud.
 
-Here are some ideas to get you started:
+I enjoy building solutions that reduce manual work and improve efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 What I do
 
-<h2>Tools</h2>
+- Automate IT processes with PowerShell
+- Build cloud solutions in Azure
+- Work with APIs using Python
+
+## 🔧 Projects
+
+- IT Onboarding Automation
+- Cloud Resume API
+- Automation scripts for IT operations
+
+## 🎯 Goals
+
+Working towards a Cloud / DevOps Engineering role
+
+## 🌐 Links
+
+<a href="https://www.dvandijk.com"><img src="./icons/dvandijk_resume.png" /></a> <br>
+<a href="https://www.linkedin.com/in/van-dijk-dennis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /></a>
+
+#
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
