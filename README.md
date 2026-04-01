@@ -23,13 +23,7 @@ I enjoy building solutions that reduce manual work and improve efficiency.
 
 ## 🎯 Goals
 
-Working towards a Cloud / DevOps Engineering role
-
-## 🌐 Links
-
-<p style="margin:0;"><a href="https://www.dvandijk.com"><img src="./icons/dvandijk_resume.png" /></a>
-<br>
-<a href="https://www.linkedin.com/in/van-dijk-dennis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /></a></p>
+<p style="margin:0;">Working towards a Cloud / DevOps Engineering role</p>
 
 #
 
@@ -42,6 +36,12 @@ Working towards a Cloud / DevOps Engineering role
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
+
 </p>
 
 ![Stats](./profile/stats.svg)
